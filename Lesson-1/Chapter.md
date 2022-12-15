@@ -275,7 +275,3 @@ contract ZombieFactory {
 
 }
 ```
-
-## Chapter 14
-
-## Chapter 15
