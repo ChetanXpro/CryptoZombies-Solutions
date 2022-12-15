@@ -1,4 +1,4 @@
-## Chapter 1
+## Chapter 2
 
 ```
 pragma solidity >=0.5.0 <0.6.0;
@@ -10,7 +10,7 @@ pragma solidity >=0.5.0 <0.6.0;
 
 ```
 
-## Chapter 2
+## Chapter 3
 
 ```
 pragma solidity >=0.5.0 <0.6.0;
